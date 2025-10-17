@@ -46,8 +46,8 @@
 
 ```python
 # Developing AI Agent with PEAS Description
-# Developed by: AVINASH T
-# Register Number: 212223230026
+# Developed by: MOHAMEDASIL S
+# Register Number: 212223040112
 
 class VacuumCleanerAgent:
     def __init__(self):
