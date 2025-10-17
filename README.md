@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: AVINASH T</h3>
-<h3>Register Number: 212223230026</h3>
+<h3>Name: MOHAMEDASIL S</h3>
+<h3>Register Number: 212223040112/h3>
 
 
 <h3>AIM:</h3>
